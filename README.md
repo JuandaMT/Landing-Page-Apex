@@ -25,3 +25,5 @@ Link a la página oficial:
 ```bash
   https://www.ea.com/es-es/games/apex-legends
 ```
+
+![Captura01](https://user-images.githubusercontent.com/130000511/231143199-40b8c63f-f032-4232-95f0-093862445207.png)
