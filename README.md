@@ -25,5 +25,12 @@ Link a la página oficial:
 ```bash
   https://www.ea.com/es-es/games/apex-legends
 ```
+![Logo](https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop16x9.1023w.jpg)
+
+## Screenshots official landing
 
 ![Captura01](https://user-images.githubusercontent.com/130000511/231143199-40b8c63f-f032-4232-95f0-093862445207.png)
+
+![Captura02](https://user-images.githubusercontent.com/130000511/231143655-eb4936ff-9f8e-403f-b273-6bc356d3e783.png)
+
+![Captura03](https://user-images.githubusercontent.com/130000511/231143999-2d8ee494-c86c-424d-b53a-5cdb11cfaaba.png)
