@@ -68,7 +68,32 @@ body button{
     padding-left: 20px;
     padding-top: 10px;
 }
-
+/*----BOTON-------*/
+.boton{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.contenido li:hover{
+    color: red;
+}
+.boton .contenido{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-top: 10px;
+    padding-top: 30px;
+    display: none;
+    min-width: 300px;
+    background-color: rgba(0, 0, 0, 0.76);
+    font-size: 1.2em;
+    line-height: 50px;
+    padding: 50px 50px 30px 50px;
+}
+.boton:hover .contenido{
+    display: block;
+    cursor: pointer;
+}
 /*----DIV1-------*/
 .div1{
     position: relative;
