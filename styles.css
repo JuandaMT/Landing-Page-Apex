@@ -73,6 +73,8 @@ body button{
     display: flex;
     flex-direction: column;
     position: relative;
+    margin: 0px 10px;
+    font-size: 1.3em;
 }
 .contenido li:hover{
     color: red;
